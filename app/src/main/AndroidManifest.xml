@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Uasmobile"
         tools:targetApi="31">
         <activity
+            android:name=".pesantren.PesantrenActivity"
+            android:exported="false" />
+        <activity
             android:name=".kabupaten.KabupatenActivity"
             android:exported="false" />
         <activity
