@@ -1,7 +1,7 @@
 package com.example.uasmobile.network
 
-import com.example.pesantren.kabupaten.ModelKabupaten
-import com.example.pesantren.pesantren.ModelPesantren
+import com.example.uasmobile.kabupaten.ModelKabupaten
+import com.example.uasmobile.pesantren.ModelPesantren
 import com.example.uasmobile.provinsi.ModelMain
 import retrofit2.Call
 import retrofit2.http.GET

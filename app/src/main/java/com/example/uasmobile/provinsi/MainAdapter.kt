@@ -24,7 +24,7 @@ class MainAdapter(private var context: Context, private var modelMainList: List<
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MainAdapter.ViewHolder {
         val view = LayoutInflater.from(parent.context)
             .inflate(R.layout.list_data_provinsi, parent, false)
-        return com.example.pesantren.provinsi.MainAdapter.ViewHolder(view)
+        return com.example.uasmobile.provinsi.MainAdapter.ViewHolder(view)
     }
 
     override fun onBindViewHolder(holder: MainAdapter.ViewHolder, position: Int) {

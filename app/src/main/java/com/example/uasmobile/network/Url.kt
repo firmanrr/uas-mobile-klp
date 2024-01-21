@@ -1,4 +1,4 @@
-package com.example.pesantren.network
+package com.example.uasmobile.network
 
 
 object Url {

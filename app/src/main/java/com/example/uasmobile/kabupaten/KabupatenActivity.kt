@@ -9,8 +9,6 @@ import androidx.appcompat.widget.Toolbar
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.uasmobile.R
-import com.example.uasmobile.kabupaten.KabupatenAdapter
-import com.example.uasmobile.kabupaten.ModelKabupaten
 import com.example.uasmobile.network.ApiService
 import com.example.uasmobile.network.Url
 import com.example.uasmobile.utils.Constant
